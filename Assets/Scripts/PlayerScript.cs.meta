@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b453022435e41b143bb9e59beeee3551
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UFOeffect: {fileID: 919132149155446097, guid: 2b86b25a23147834184f866c6ac83de1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
